@@ -56,7 +56,7 @@ header a {
   justify-content: flex-end;
   flex-wrap: wrap;
   position: relative;
-  background-image: url("/assets/webdev.jpg");
+  background-image: url("../assets/webdev.jpg");
 }
 
 /* about section styling */
